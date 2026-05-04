@@ -40,27 +40,42 @@ Other Tools
 
 Git & GitHub
 REST APIs
-(Add AI / APIs if used in hackathon)
-📂 Project Structure
+
+Project Structure
+
 volunteer/
+
 │── frontend/        # UI components
+
 │── backend/         # Server & APIs
+
 │── database/        # DB configs / models
+
 │── assets/          # Images & static files
+
 │── README.md
-⚙️ Installation & Setup
-Clone the repository
+
+Installation & Setup
+1.Clone the repository
+
 git clone https://github.com/divyanshu79-tuli/volunteer.git
-Navigate to project
+
+2.Navigate to project
+
 cd volunteer
-Install dependencies
+
+3.Install dependencies
+
 npm install
-Run the project
+
+4.Run the project
+
 npm start
-💡 How It Works
+
+How It Works
+
 Users sign up as volunteers or organizations
 Organizations post tasks / needs
 Volunteers browse or get matched automatically
 Volunteers accept tasks
 Work is tracked and completed efficiently
-📸 Screenshots
